@@ -1,2 +1,2 @@
 # dummyRepo
-justt a dummy repo for testing purposes
+Just a dummy repo for testing purposes, I hope that your are OK with that :)
